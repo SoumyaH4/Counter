@@ -1,4 +1,4 @@
-#Counter 
+<h1>Counter</h1> 
 A simple counter application built with React, featuring buttons to increment, decrement, and reset the counter.
 
 <h2>Features</h2>
